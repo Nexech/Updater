@@ -1,0 +1,22 @@
+{
+    "name": "Device Center Plus",
+    "isPlayStore": true,
+    "channel": {
+        "debug": {
+            "versionCodeMinApi31": 340002040,
+            "versionCodeMinApi28": 340001040,
+            "version_code": "340001040",
+            "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
+            "isOptional": false,
+            "downloadUrl": ""
+        },
+        "release": {
+            "versionCodeMinApi31": 340002040,
+            "versionCodeMinApi28": 340001040,
+            "version_code": "340001040",
+            "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
+            "isOptional": false,
+            "downloadUrl": ""
+        }
+    }
+}
