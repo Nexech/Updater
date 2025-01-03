@@ -26,7 +26,9 @@
     "instagramVisible": true,
     "instagramUrl": "https://www.instagram.com/nexechofficial/",
     "facebookVisible": true,
-    "facebookUrl": "https://www.facebook.com/nexech",
-    "youtubeVisible": false,
-    "youtubeUrl": ""
+    "facebookUrl": "https://facebook.com/nexech",
+    "tiktokVisible": true,
+    "tiktokUrl": "https://www.tiktok.com/@nexechofficial",
+    "youtubeVisible": true,
+    "youtubeUrl": "https://youtube.com/@nexech"
 }
