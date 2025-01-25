@@ -3,31 +3,31 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "versionCodeMinApi31": 340002050,
-            "versionCodeMinApi28": 340001050,
+            "versionCodeMinApi31": 340002054,
+            "versionCodeMinApi28": 340001054,
             "changelog": "Android Emulator application debug testing.",
-            "isOptional": false,
+            "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "versionCodeMinApi31": 340002050,
-            "versionCodeMinApi28": 340001050,
-            "changelog": "Say hello to our new subscription system!\n* We now offer a 14-day free trial before upgrading to Plus for the first time. If you're satisfied, your subscription will automatically upgrade to the Plus version via our monthly subscription system.\n* Some bug fixes have been made.",
-            "isOptional": false,
+            "versionCodeMinApi31": 340002054,
+            "versionCodeMinApi28": 340001054,
+            "changelog": "Updates can improve the quality and stability of the app.",
+            "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "versionCodeMinApi31": 340002050,
-            "versionCodeMinApi28": 340001050,
-            "changelog": "Say hello to our new subscription system!\n* We now offer a 14-day free trial before upgrading to Plus for the first time. If you're satisfied, your subscription will automatically upgrade to the Plus version via our monthly subscription system.\n* Some bug fixes have been made.",
-            "isOptional": false,
+            "versionCodeMinApi31": 340002054,
+            "versionCodeMinApi28": 340001054,
+            "changelog": "Updates can improve the quality and stability of the app.",
+            "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "versionCodeMinApi31": 340002050,
-            "versionCodeMinApi28": 340001050,
-            "changelog": "Say hello to our new subscription system!\n* We now offer a 14-day free trial before upgrading to Plus for the first time. If you're satisfied, your subscription will automatically upgrade to the Plus version via our monthly subscription system.\n* Some bug fixes have been made.",
-            "isOptional": false,
+            "versionCodeMinApi31": 340002054,
+            "versionCodeMinApi28": 340001054,
+            "changelog": "Updates can improve the quality and stability of the app.",
+            "isOptional": true,
             "downloadUrl": ""
         }
     }
