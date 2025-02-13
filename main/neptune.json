@@ -3,30 +3,30 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "versionCodeMinApi31": 340002060,
-            "versionCodeMinApi28": 340001060,
+            "versionCodeMinApi31": 340002062,
+            "versionCodeMinApi28": 340001062,
             "changelog": "Android Emulator application debug testing.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "versionCodeMinApi31": 340002060,
-            "versionCodeMinApi28": 340001060,
-            "changelog": "This update includes minor bug fixes and updates to the library versions used by the application. Additionally, we have added an offer page for users who have never subscribed before. In addition to the free trial membership, we are offering a promotional price for the first 2 months immediately after the trial period.",
+            "versionCodeMinApi31": 340002062,
+            "versionCodeMinApi28": 340001062,
+            "changelog": "IMPORTANT - In this update, several critical bugs have been fixed. Most users should no longer experience crashes in certain parts of the app. Additionally, the issue where previous Plus license holders were automatically downgraded to the free version has been resolved. To help us fix more issues, please leave a comment on the app or enable the "Send diagnostic data" option.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "versionCodeMinApi31": 340002060,
-            "versionCodeMinApi28": 340001060,
-            "changelog": "This update includes minor bug fixes and updates to the library versions used by the application. Additionally, we have added an offer page for users who have never subscribed before. In addition to the free trial membership, we are offering a promotional price for the first 2 months immediately after the trial period.",
+            "versionCodeMinApi31": 340002062,
+            "versionCodeMinApi28": 340001062,
+            "changelog": "IMPORTANT - In this update, several critical bugs have been fixed. Most users should no longer experience crashes in certain parts of the app. Additionally, the issue where previous Plus license holders were automatically downgraded to the free version has been resolved. To help us fix more issues, please leave a comment on the app or enable the "Send diagnostic data" option.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "versionCodeMinApi31": 340002060,
-            "versionCodeMinApi28": 340001060,
-            "changelog": "This update includes minor bug fixes and updates to the library versions used by the application. Additionally, we have added an offer page for users who have never subscribed before. In addition to the free trial membership, we are offering a promotional price for the first 2 months immediately after the trial period.",
+            "versionCodeMinApi31": 340002062,
+            "versionCodeMinApi28": 340001062,
+            "changelog": "IMPORTANT - In this update, several critical bugs have been fixed. Most users should no longer experience crashes in certain parts of the app. Additionally, the issue where previous Plus license holders were automatically downgraded to the free version has been resolved. To help us fix more issues, please leave a comment on the app or enable the "Send diagnostic data" option.",
             "isOptional": true,
             "downloadUrl": ""
         }
