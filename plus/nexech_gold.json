@@ -3,30 +3,30 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "versionCodeMinApi31": 340002060,
-            "versionCodeMinApi28": 340001060,
+            "versionCodeMinApi31": 340002063,
+            "versionCodeMinApi28": 340001063,
             "changelog": "Android Emulator application debug testing.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "versionCodeMinApi31": 340002060,
-            "versionCodeMinApi28": 340001060,
-            "changelog": "This update includes minor bug fixes and updates to the library versions used by the application.",
+            "versionCodeMinApi31": 340002063,
+            "versionCodeMinApi28": 340001063,
+            "changelog": "IMPORTANT - In this update, several critical issues have been fixed. The app is no longer expected to crash in certain parts for most users. To help us resolve more issues, please leave a review or enable the "Send diagnostic data" option.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "versionCodeMinApi31": 340002060,
-            "versionCodeMinApi28": 340001060,
-            "changelog": "This update includes minor bug fixes and updates to the library versions used by the application.",
+            "versionCodeMinApi31": 340002063,
+            "versionCodeMinApi28": 340001063,
+            "changelog": "IMPORTANT - In this update, several critical issues have been fixed. The app is no longer expected to crash in certain parts for most users. To help us resolve more issues, please leave a review or enable the "Send diagnostic data" option.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "versionCodeMinApi31": 340002060,
-            "versionCodeMinApi28": 340001060,
-            "changelog": "This update includes minor bug fixes and updates to the library versions used by the application.",
+            "versionCodeMinApi31": 340002063,
+            "versionCodeMinApi28": 340001063,
+            "changelog": "IMPORTANT - In this update, several critical issues have been fixed. The app is no longer expected to crash in certain parts for most users. To help us resolve more issues, please leave a review or enable the "Send diagnostic data" option.",
             "isOptional": true,
             "downloadUrl": ""
         }

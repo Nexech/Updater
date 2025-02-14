@@ -3,29 +3,29 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "versionCodeMinApi31": 340002062,
-            "versionCodeMinApi28": 340001062,
+            "versionCodeMinApi31": 340002063,
+            "versionCodeMinApi28": 340001063,
             "changelog": "Android Emulator application debug testing.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "versionCodeMinApi31": 340002062,
-            "versionCodeMinApi28": 340001062,
+            "versionCodeMinApi31": 340002063,
+            "versionCodeMinApi28": 340001063,
             "changelog": "IMPORTANT - In this update, several critical bugs have been fixed. Most users should no longer experience crashes in certain parts of the app. Additionally, the issue where previous Plus license holders were automatically downgraded to the free version has been resolved. To help us fix more issues, please leave a comment on the app or enable the "Send diagnostic data" option.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "versionCodeMinApi31": 340002062,
-            "versionCodeMinApi28": 340001062,
+            "versionCodeMinApi31": 340002063,
+            "versionCodeMinApi28": 340001063,
             "changelog": "IMPORTANT - In this update, several critical bugs have been fixed. Most users should no longer experience crashes in certain parts of the app. Additionally, the issue where previous Plus license holders were automatically downgraded to the free version has been resolved. To help us fix more issues, please leave a comment on the app or enable the "Send diagnostic data" option.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "versionCodeMinApi31": 340002062,
-            "versionCodeMinApi28": 340001062,
+            "versionCodeMinApi31": 340002063,
+            "versionCodeMinApi28": 340001063,
             "changelog": "IMPORTANT - In this update, several critical bugs have been fixed. Most users should no longer experience crashes in certain parts of the app. Additionally, the issue where previous Plus license holders were automatically downgraded to the free version has been resolved. To help us fix more issues, please leave a comment on the app or enable the "Send diagnostic data" option.",
             "isOptional": true,
             "downloadUrl": ""
